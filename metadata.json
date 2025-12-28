@@ -1,0 +1,7 @@
+{
+  "name": "Well-Sync: Personalized Health Navigator",
+  "description": "An AI-driven wellness platform providing non-diagnostic health recommendations, progress tracking, and personalized goals for fitness, nutrition, and mental wellness in Ethiopia.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
